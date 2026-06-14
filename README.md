@@ -1,5 +1,5 @@
 # Hello, I'm Alex L 👋
-Computer Science student @ McMaster University passionate about AI and deep learning. I build practical machine learning projects using PyTorch, focusing on computer vision tasks. Actively seeking co-op opportunities to apply technical skills in professional environments.
+Computer Science student passionate about AI and deep learning. I build practical machine learning projects using PyTorch, focusing on computer vision tasks. Actively seeking co-op opportunities to apply technical skills in professional environments.
 
 ## 🛠 Technical Skills
 - Programming Languages: Python, C, C++, Java, SQL, MATLAB, Elm, Assembly
