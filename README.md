@@ -11,12 +11,10 @@ Computer Science student passionate about AI and deep learning. I build practica
 ### 1. CIFAR-10 RGB Image Classifier
 A multi-block CNN model for 10-class color image classification. Implemented data augmentation, Batch Normalization and Dropout to reduce overfitting.
 **Test Accuracy**: 76.50%
-🔗 Repository: https://github.com/Axeofchaos21/cifar10-cnn-classifier
 
 ### 2. MNIST Handwritten Digit Recognition
 Built MLP and CNN models for grayscale handwritten digit classification with complete training and evaluation pipeline.
 **Test Accuracy**: 97.68%
-🔗 Repository: https://github.com/Axeofchaos21/mnist-digit-classifier
 
 ## 📬 Contact
 - Email: [liu2152@mcmaster.ca]
